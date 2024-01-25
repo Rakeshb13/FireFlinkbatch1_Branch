@@ -9,4 +9,10 @@ public class BaseTest {
 		//by Rakesh
 	}
 
+	public void launchBrowser()
+	{
+		//by Rakesh
+	}
 }
+
+
