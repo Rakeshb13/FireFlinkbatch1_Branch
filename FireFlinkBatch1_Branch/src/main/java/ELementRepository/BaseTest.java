@@ -4,7 +4,7 @@ public class BaseTest {
 	
 //	Hi Team...
 	
-	public void launchBrowser()
+	public void launchBrowser123()
 	{
 		//by Rakesh
 	}
